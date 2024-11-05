@@ -88,8 +88,11 @@ return 0;
 ## OUTPUT:
 
 ## 1:
+![Screenshot from 2024-11-05 18-08-40](https://github.com/user-attachments/assets/a80dc8f3-2904-4217-9175-13a466af4195)
 
 ## 2:
+![Screenshot from 2024-11-05 18-10-10](https://github.com/user-attachments/assets/b4f436ed-980a-4f96-8382-447b68da4361)
+![Screenshot from 2024-11-05 18-11-34](https://github.com/user-attachments/assets/d2aa23e9-0e7f-4c92-a8f9-1e226c854a46)
 
 # RESULT:
 The programs are executed successfully.
